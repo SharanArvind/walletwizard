@@ -1,0 +1,21 @@
+merchant,category,amount,timestamp
+Amazon,Shopping,50.25,1622548800
+Starbucks,Food & Drink,5.75,1622635200
+Uber,Transport,15.0,1622721600
+Walmart,Shopping,120.0,1622808000
+Netflix,Entertainment,12.99,1622894400
+Starbucks,Food & Drink,6.5,1622980800
+Amazon,Shopping,30.0,1623067200
+Uber,Transport,20.0,1623153600
+Spotify,Entertainment,9.99,1623240000
+Walmart,Shopping,45.0,1623326400
+Starbucks,Food & Drink,4.5,1623412800
+Amazon,Shopping,75.0,1623499200
+Uber,Transport,25.0,1623585600
+Netflix,Entertainment,12.99,1623672000
+Starbucks,Food & Drink,5.0,1623758400
+Amazon,Shopping,40.0,1623844800
+Uber,Transport,15.0,1623931200
+Spotify,Entertainment,9.99,1624017600
+Walmart,Shopping,60.0,1624104000
+Starbucks,Food & Drink,4.25,1624190400
